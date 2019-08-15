@@ -97,7 +97,7 @@ En la sección Downloads se puede encontrar los archivos para Windows, Linux y M
 
 Al abrir el ejecutable se despliega el Entorno de Desarrollo Integrado (IDE) también conocido como Entorno de Desarrollo de Processing (PDE). 
 
-![PDE](../../../img/pde.gif)
+![PDE](https://github.com/EmilioOcelotl/centro20-I_CC2/blob/master/img/pde.gif)
 
 Una imagen de mejor calidad de los elementos del PDE se puede encontrar en la página 8 de *Processing. A Programming Handbook for Visual Designers and Artist.* 
 
