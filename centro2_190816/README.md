@@ -3,7 +3,7 @@
 
 Presentación.
 
-Fechas, recursos e información -> [https://github.com/EmilioOcelotl/centro20-I_CC2/README.md]((https://github.com/EmilioOcelotl/centro20-I_CC2/README.md)
+Fechas, recursos e información -> [https://github.com/EmilioOcelotl/centro20-I_CC2/README.md](https://github.com/EmilioOcelotl/centro20-I_CC2/README.md)
 
 [Type and Form sculpture](https://devart.withgoogle.com/#/catalogued/6682104213536768)
 
@@ -41,6 +41,10 @@ Lenguaje natural es aquello que puede procesarse como datos por el software.
 
 ## ¿Qué es el código creativo?: historia y usos contemporáneos
 
+[Design by Numbers](https://dbn.media.mit.edu/) es el antecedente inmediato de Processing. Fue creado por John Maeda para diseñadores visuales y artistas como una introducción al diseño computacional. 
+
+Programas funcionales y accesibles para artistas basados en programación gráfica como Max/MSP, PureData y VVVVV.
+
 ## Ejemplos de proyectos creativos cuyo fundamento es la programación
 
 ## Los 5 principios del código creativo
@@ -71,10 +75,10 @@ Una imagen de los elementos del PDE se puede encontrar en la página 8 de *Proce
 
 ## Referencias 
 
-- [DevArt. Art made with code](https://devart.withgoogle.com/)
-
 - Reas, C., & Fry, B. (2014). Processing: a programming handbook for visual designers and artists. Massachusetts: MIT Press.
 
 - Reas, C., McWilliams, C., & LUST. (2010). Form + Code: in design, art and architecture. New York: Princeton Architectural Press.
 
 - Cramer, F. (2008) Language. In Fuller, Matthew, Ed., Software Studies, a Lexicon. Massachusetts: MIT Press. 
+
+- [DevArt. Art made with code](https://devart.withgoogle.com/)

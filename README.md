@@ -7,9 +7,55 @@ Salón C 301
 
 contacto: eocelotl@centro.edu.mx
 
-## fechas
+## Fechas
 
-- [ ] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1. 1000 Clicks contra 10 líneas
+- [ ] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1. 1000 Clicks contra 10 lineas
+
+- [ ] 23 de agosto - Clase 2. Fundamentos de computación y Processing
+
+- [ ] 30 de agosto - Clase 3. Lógica I
+
+- [ ] 6 de septiembre - Clase 4. Lógica II
+
+- [ ] 13 de septiembre - Clase 5. Conjuntos
+
+- [ ] 20 de septiembre - Clase 6. Funciones
+
+- [ ] 27 de septiembre - Clase 7. Matemáticas discretas
+
+- [ ] 4 de octubre - Clase 8. Algoritmos I
+
+- [ ] 11 de octubre - Clase 9. Geometría
+
+- [ ] 18 de octubre - Clase 10. Algoritmos
+
+- [ ] 25 de octubre - Clase 11. Algoritmos
+
+- [ ] 1 de noviembre - Clase 12. Programación estructurada
+
+- [ ] 8 de noviembre - Clase 13. Programación estructurada
+
+- [ ] 15 de noviembre - Clase 14. Programación estructurada
+
+- [ ] 22 de noviembre - Clase 15. Programación estructurada
+
+- [ ] 29 de noviembre - Clase 16. Programación estructurada
+
+## Evaluación 
+
+- Carpeta de trabajos finales: selección de al menos 5 trabajos realizados durante el semestre con sus respectivas variaciones 25%
+
+- Lecturas: Form and Code 10%
+
+- Primer parcial: participación 5% y ejercicio a entregar 20%
+
+- Segundo parcial: participación 5% y ejercicio a entregar 20%
+
+- Tercer parcial: participación 5% y ejercicio a entregar 10%
+
+## Ligas
+
+- [DevArt. Art made with code](https://devart.withgoogle.com/)
 
 ## Referencias 
 
