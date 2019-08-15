@@ -43,7 +43,9 @@ Lenguaje natural es aquello que puede procesarse como datos por el software.
 
 [Design by Numbers](https://dbn.media.mit.edu/) es el antecedente inmediato de Processing. Fue creado por John Maeda para diseñadores visuales y artistas como una introducción al diseño computacional. 
 
-Programas funcionales y accesibles para artistas basados en programación gráfica como Max/MSP, PureData y VVVVV.
+Programas funcionales y accesibles para artistas basados en programación gráfica como [Max](https://cycling74.com/), [PureData](https://puredata.info/) y [vvvv](https://vvvv.org/).
+
+Sketchpad como un antececente. 
 
 ## Ejemplos de proyectos creativos cuyo fundamento es la programación
 

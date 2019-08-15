@@ -5,8 +5,6 @@ Objetivo del curso: comprender los lenguajes de programación computacional como
 
 Salón C 301
 
-contacto: eocelotl@centro.edu.mx
-
 ## Fechas
 
 - [ ] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1. 1000 Clicks contra 10 lineas
@@ -53,7 +51,7 @@ contacto: eocelotl@centro.edu.mx
 
 - Tercer parcial: participación 5% y ejercicio a entregar 10%
 
-## Ligas
+## Enlaces
 
 - [DevArt. Art made with code](https://devart.withgoogle.com/)
 
