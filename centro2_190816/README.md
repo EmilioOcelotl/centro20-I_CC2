@@ -7,7 +7,7 @@ Presentación.
 
 GitHub, clases y recursos como hipervínculos. 
 
-Fechas, recursos e información -> [https://github.com/EmilioOcelotl/centro20-I_CC2/README.md](https://github.com/EmilioOcelotl/centro20-I_CC2/README.md)
+Fechas, recursos e información -> [https://github.com/EmilioOcelotl/centro20-I_CC2](https://github.com/EmilioOcelotl/centro20-I_CC2)
 
 [Type and Form sculpture](https://devart.withgoogle.com/#/catalogued/6682104213536768)
 
@@ -31,8 +31,6 @@ La programación como tarea técnica pero también como acto de comunicación y 
 
 En este sentido, la programación es un paradigma de pensamiento con múltiples instancias que se expresan como herramientas de producción (tareas y repetición) pero también como formas simbolicas de representar el mundo. 
 
-El flujo de información 
-
 ## ¿Qué es un lenguaje de programación?
 
 Software y hardware. 
@@ -45,7 +43,17 @@ En el software hay al menos dos capas de lenguaje formal: un lenguaje de program
 
 Lenguaje natural es aquello que puede procesarse como datos por el software. 
 
+Un lenguaje de programación está compuesto por un conjunto de símbolos, reglas gramaticales y reglas semánticas. 
+
+En este sentido, un lenguaje de programación es una convención que busca estar lo más cercano a un lenguaje comprensible por un ser humano y que sirve para dar instrucciones a una computadora.
+
+Si bien hay una serie de convenciones culturales que definen los lenguajes de programación, también influyen aspectos tecno-sociales. 
+
+La capacidad de una computadora también define la manera en que se estructuran las indicaciones para 
+
 ## ¿Qué es el código creativo?: historia y usos contemporáneos
+
+Lo experiencial y los antecedentes como motivaciones para las personas que usan y desarrollan en el contexto del código creativo. 
 
 La perspectiva del código creativo que surge del contexto de Processing, tiene su origen en el Aesthetics and Computation Group (ACG).
 
@@ -67,13 +75,35 @@ Programas funcionales y accesibles para artistas basados en programación gráfi
 
 Max fue desarrollado por Miller Puckette en los 80. Esta propuesta después devino en PureData. Su paradigma de pensamiento es parte de la conexión entre cajas, muy parecido al flujo modular de la música. 
 
+La revolución técnica y cultural que ocurrió cuando se introdujo la computadora personal y el internet a un público mayor. 
+
+Si bien la programación y los lenguajes de programación tienen bastante tiempo, estos dos aspectos han estado marcados por el desarrollo de herramientas creadas por programadores profesionales. 
+
+Toda una serie de capas componen el software que utilizamos convencionalmente. Debajo de estas capas está la programación de computadoras. Para realizar herramientas propias, basadas en otro tipo de premisas y en otro tipo de salidas, es necesario conocer el "arte de la programación de computadoras". 
+
+Otra característica que distingue a Processing (y a otras herramientas): el impacto que ha tenido el software de código abierto e iniciativas como Linux. 
+
+Grandes compañías y alternativas. 
+
+Compartir y mejorar el código a través de iniciativas de colaboración permiten aprender de otras personas para construir proyectos que de otra manera serían muy complicados de realizar. 
+
+De esta construcción colectiva de las herramientas surgen extensiones al programa que extienden las capacidades de herramientas como Processing. Por otro lado también permiten que estas herramientas puedan estar actualizadas con tendencias, interfaces y hardware novedoso. 
+
+Interesante es que el código creativo es una introducción bastante amigable a herramientas para hacer Realidad Virtual, Realidad Aumentada y puede ser un camino relativamente accesible a la programación de aplicaciones para teléfonos inteligentes. 
+
+Estas herramientas tienen implicaciones pedadógicas que se promueven en cursos cortos pero también en programas universitarios de más largo alcance. 
+
 ## Ejemplos de proyectos creativos cuyo fundamento es la programación
 
-[Hydra - Olivia Jack](https://github.com/ojack/hydra-synth)
+Seguimiento de hashtags. Ejercicios que las personas suben a las redes. No necesariamente son los grandes artistas. 
+
+[Zack Lieberman](https://www.instagram.com/zach.lieberman/)
 
 [Algorave 100 fragments - Atsushi Tadoroko](https://vimeo.com/286688569)
 
 [Circulo & Meio - Renick Bell & Joana Chicau](https://www.youtube.com/watch?v=bFqYRpUbKqs)
+
+[Hydra Patterns](https://twitter.com/hydra_patterns)
 
 ## Los 5 principios del código creativo
 
