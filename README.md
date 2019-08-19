@@ -7,9 +7,9 @@ Salón C 301
 
 ## Fechas
 
-- [ ] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1. 1000 Clicks contra 10 lineas
+- [x] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1. 1000 Clicks contra 10 lineas
 
-- [ ] 23 de agosto - Clase 2. Fundamentos de computación y Processing
+- [ ] [23 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_230816/README.md) - Clase 2. Fundamentos de computación y Processing
 
 - [ ] 30 de agosto - Clase 3. Lógica I
 
