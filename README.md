@@ -1,6 +1,8 @@
 
 # Código Creativo 2020-I Segundo Semestre
 
+![portada](https://github.com/EmilioOcelotl/centro20-I_CC2/blob/master/img/portada2.png)
+
 Objetivo del curso: comprender los lenguajes de programación computacional como una práctica creativa para diseño y arte en el entorno de desarrollo [Processing](https://processing.org/).
 
 Salón C 301
