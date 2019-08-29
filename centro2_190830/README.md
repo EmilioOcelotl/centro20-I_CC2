@@ -15,7 +15,7 @@ Es posible realizar encadenamientos de operaciones de forma tal que se general p
 | Conectiva   | Expresión lenguaje formal| Operador en Processing |
 |:-----------:|:------------------------:|:----------------------:|
 | Conjunción   | y                        | &&                    |
-| Disyunción   | o                        | ||                    |
+| Disyunción   | o                        | &#124;&#124;          |
 | Negación     | no                       | !                     |
 | Condiciona   | si... entonces           |                       |
 | Bicondicional| Si y sólo si             |                       |
@@ -29,11 +29,13 @@ La siguiente tabla contiene las posibles combinaciones de conjunción, disyunci�
 |true && true|true|
 |true && false|false|
 |false && false|false|
-|true || true|true|
-|true || false|true|
-|false || false |false|
-|!true|false|
-|!false|true|
+|true &#124;&#124; true|true|
+|true &#124;&#124; false|true|
+|false &#124;&#124; false |false|
+|!true&#124;false|
+|!false&#124;true|
+
+Es posible realizar estas evaluaciones en Processing por medio de la función  `println()`. 
 
 ## Processing
 
@@ -60,6 +62,48 @@ Ya hemos mencionado que Processing tiene dos modos separados: activo y estático
 El modo activo implica dos momentos o bloques de código: `setup()` y `draw()`. Básicamente, el código que escribimos dentro de `draw()` se actualiza 60 veces cada segundo. Esto permite que los objetos que dibujamos den la sensación de movimiento. 
 
 ### Formas básicas: triangle, arc, quad, curve, modes
+
+#### Triangle
+
+Un triángulo es un plano creado al conectar tres puntos. Los primeros dos argumentos especifican el primer punto de ese plano, los dos siguientes el segundo, y los dos últimos el tercero. 
+
+La sintaxis para dibujar un triángulo es la siguiente: 
+
+`triangle(x1, y1, x2, y2, x3, y3)`
+
+Un ejemplo de rectángulo: 
+
+```java
+triangle(55,9, 90, 80, 75, 90);
+```
+
+#### arc
+
+Arc() dibuja un arco en la pantalla. Los arcos se dibujan a lo largo del borde exterior de una elipse definida por los parámetros a, b, c y d.
+
+El origen de la elipse del arco se puede cambiar con la función ellipseMode (). Start y stop especifican los ángulos (en radianes) en los que se dibuja el arco. Los valores de inicio / parada deben estar en el sentido de las agujas del reloj.
+
+Hay tres formas de dibujar un arco, se definen mediante el séptimo parámetro opcional. Las tres opciones son PIE, OPEN y CHORD. Por default, la opción OPEN está activdada.  
+
+Sintaxis para dibujar un arco en Processing: 
+
+``arc(a, b, c, d, start, stop)``
+``arc(a, b, c, d, start, stop, mode)``
+
+```java
+arc(50, 50, 80, 80, 0, PI+QUARTER_PI, OPEN);
+arc(50, 50, 80, 80, 0, PI+QUARTER_PI, CHORD);
+arc(50, 50, 80, 80, 0, PI+QUARTER_PI, PIE);
+arc(50, 55, 50, 50, 0, PI); 
+arc(50, 55, 50, 50, radians(180), radians(180+90)); 
+```
+#### quad
+
+quad(x1, y1, x2, y2, x3, y3, x4, y4)
+
+#### curve
+
+#### modes
 
 ### Condicionales simples
 
