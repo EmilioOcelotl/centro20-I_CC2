@@ -1,4 +1,3 @@
-
 # Clase 2 | Fundamentos de computación y *Processing*
 
 ¿De qué hablamos la clase pasada? 
@@ -293,14 +292,6 @@ Investigar este modelo de color
 
 Asignar un color distinto a cada una de las figuras que dibujamos en el ejercicio anterior. Al menos dos de ellas deben tener colores expresados en la convención RGB y dos de ellas deben tener transparencia. 
 
-### Referencia y ayuda
-
-En caso de que tengamos problemas con alguna función en específico, es posible consultar la referencia en línea. 
-
-En esta documentación podemos encontrar una breve explicación de la función o del objeto en cuestión, qué parámetros recibe y un ejemplo de cómo puede implementarse. 
-
-Link a las referencias
-
 ### Qué es una variable: int, float
 
 Con variables asignamos valores específicos a espacios físicos de la computadora. En estos espacios podemos guardar, entre otras cosas, números. 
@@ -371,3 +362,11 @@ x += 10; // es igual a x = x +10
 ```java
 x ++; // es igual a x = x + 1 
 ```
+
+### Referencia y ayuda
+
+En caso de que tengamos problemas con alguna función en específico, es posible consultar la referencia en línea. 
+
+En esta documentación podemos encontrar una breve explicación de la función o del objeto en cuestión, qué parámetros recibe y un ejemplo de cómo puede implementarse. 
+
+Link a las referencias

@@ -59,6 +59,12 @@ Las variables booleanas toman su nombre del matemático George Boole, inventor d
 
 Una variable booleana por lo general se utiliza para tomar decisiones, por ejemplo, qué líneas de código son ejecutadas y cuales son ignoradas. 
 
+`boolean b = true;`
+
+El ejemplo anterior puede utilizarse para el caso de las proposiciones antes mencionadas. 
+
+Variables booleanas y los distintos estados del ratón como método de entrada. 
+
 ### Modo dinámico
 
 Ya hemos mencionado que Processing tiene dos modos separados: activo y estático. 
@@ -113,6 +119,22 @@ Podemos ver la posición actual de los valores producidos mientras movemos el mo
 void draw() {
 frameRate(12);
 println(mouseX + " : " + mouseY);
+}
+```
+
+También podemos asignar los valores de la posición del mouse en X y Y a las posiciones de los objetos en Processing 
+
+¿Cómo podríamos hacer esto?
+
+Por último, hablaremos de mousePressed para clarificar lo que ya hemos mencionado sobre las variables booleanas. 
+
+mousePressed es una especie de variable reservada que Processing lee por default. Width y Height también son variables que Processing entiende sin declararlas. 
+
+Esta función se comporta como una variable booleana, si presionamos el botón izquierdo del mouse, entonces nos devolverá verdadero, si dejamos de presionarlo, nos devolverá falso. 
+
+```java
+void draw(){
+println(mousePressed); 
 }
 ```
 
@@ -173,7 +195,7 @@ void draw() {
 background(204);
 stroke(102);
 line(40, 0, 70, height);
-if (mousePressed) {
+if (mousePressed) { // aquí utilizamos mousePressed como una variable booleana
 stroke(0);
 } else {
 stroke(255);
