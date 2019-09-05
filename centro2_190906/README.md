@@ -36,6 +36,7 @@ Por ejemplo, una variable que se incrementa en uno cada vez (1, 2, 3, 4, 5, etc)
 En este caso, si aplicamos % 4 el número que se incrementa continuamente puede producir un ciclo que oscila entre 0 y 3. 
 
 |x  |0|1|2|3|4|5|6|7|8|9|10|
+|---|-|-|-|-|-|-|-|-|-|-|-|
 |x%4|0|1|2|3|0|1|2|3|0|1|2|
 
 ## Pequeño ejercicio 
