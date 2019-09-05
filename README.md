@@ -13,9 +13,9 @@ Salón C 301
 
 - [x] [23 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190823/README.md) - Clase 2. Fundamentos de computación y Processing
 
-- [ ] [30 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190830/README.md) - Clase 3. Lógica I
+- [x] [30 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190830/README.md) - Clase 3. Lógica I
 
-- [ ] 6 de septiembre - Clase 4. Lógica II
+- [ ] [6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190906/README.md) - Clase 4. Lógica II
 
 - [ ] 13 de septiembre - Clase 5. Conjuntos
 
