@@ -9,15 +9,15 @@ Salón C 301
 
 ## Fechas
 
-- [x] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1. 1000 Clicks contra 10 lineas
+- [x] [16 de Agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190816/README.md) - Clase 1.
 
-- [x] [23 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190823/README.md) - Clase 2. Fundamentos de computación y Processing
+- [x] [23 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190823/README.md) - Clase 2. 
 
-- [x] [30 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190830/README.md) - Clase 3. Lógica I
+- [x] [30 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190830/README.md) - Clase 3. 
 
-- [ ] [6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190906/README.md) - Clase 4. Lógica II
+- [ ] [6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190906/README.md) - Clase 4.
 
-- [ ] 13 de septiembre - Clase 5. Conjuntos
+- [ ] [13 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190913/README.md) - Clase 5.
 
 - [ ] 20 de septiembre - Clase 6. Funciones
 
