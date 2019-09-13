@@ -15,7 +15,7 @@ Salón C 301
 
 - [x] [30 de agosto](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190830/README.md) - Clase 3. 
 
-- [ ] [6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190906/README.md) - Clase 4.
+- [x] [6 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190906/README.md) - Clase 4.
 
 - [ ] [13 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190913/README.md) - Clase 5.
 
