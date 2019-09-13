@@ -6,7 +6,7 @@
 
 ### Sintaxis += y ++
 
-En clases anteriores vimos algunas expresiones que simplifican el trabajo de escribir expresiones que son comunes en la programación. 
+Anteriormrente vimos algunas expresiones que simplifican el trabajo de escribir expresiones que son comunes en la programación. 
 
 En este sentido, es necesario usar "atajos" de código que nos ayudan a tener un código más conciso. 
 
@@ -63,9 +63,9 @@ Existen otros atajos como *= y /= que podemos deducir por el primer operador.
 
 ### Contadores 
 
-El realizar operaciones donde en cada vuelta de algún loop agregamos el valor 1 nos permite utilizar contadores. 
+Los atajos antes vistos nos permiten abordar contadores. 
 
-Por ejemplo, la clase pasada realizamos un contador relativamente sencillo que aumentaba en 1 el valor que le asignamos a la variable que controlaba el diámetro de los círculos. 
+La clase pasada realizamos un contador relativamente sencillo que aumentaba en 1 el valor que le asignamos a la variable que controlaba el diámetro de los círculos. 
 
 Entonces, cuando se ejecutaba `dia = dia + 1;` en draw() aumentabamos en 1 el tamaño del diámetro. 
 
