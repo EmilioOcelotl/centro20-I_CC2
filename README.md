@@ -19,7 +19,7 @@ Salón C 301
 
 - [ ] [13 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190913/README.md) - Clase 5.
 
-- [ ] 20 de septiembre - Clase 6. Funciones
+- [ ] [20 de septiembre](https://github.com/EmilioOcelotl/centro20-I_CC2/tree/master/centro2_190920/README.md) - Clase 6
 
 - [ ] 27 de septiembre - Clase 7. Matemáticas discretas
 
