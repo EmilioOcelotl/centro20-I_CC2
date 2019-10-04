@@ -1,0 +1,32 @@
+
+# Clase 8 
+
+Hasta el momento hemos visto setup() y draw(). 
+
+Hemos visto que es posible dar animación a los objetos en Processing con un contador. 
+
+Podemos agregar un limitador con if() para que ese contador tenga un comportamiento y no solamente aumente hasta el infinito.
+
+Vimos que es posible realizar esto también con la operación módulo. 
+
+Hay una función específica que se llama random() que sirve para arrojarnos valores aleatorios. 
+
+Hemos utilizado esta función para generar valores aleatorios, por ejemplo. 
+
+En esta clase vamos a revisar detenidamente algunas funciones específicas de aleatoriedad. 
+
+Al final veremos cómo es posible utilizar algún ejemplo de aleatoriedad en el contexto de la repetición con for().
+
+Para realizar esto, haremos ejercicios sencillos con for(). 
+
+## Aclaración previa
+
+Estamos a la mitad del curso. 
+
+Dentro de dos semanas ustedes realizarán la segunda entrega sujeta a evaluación. 
+
+Como estamos revisando temas relativamente nuevos, vamos a realizar estos ejercicios en clase. 
+
+En esta ocasión vamos a revisar algunos elmentos fundamentales que deberán estar incorporados en sus ejercicios, pero destinaremos las siguientes dos sesiones en trabajar proyectos y códigos específicos. 
+
+Idealmente sus entregas deberán contar con un contador, con un if que lo controle y con manipulaciones de posición, tamaño o color. 
